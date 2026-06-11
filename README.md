@@ -144,7 +144,7 @@ I’m actively looking for collaborators on:
 
 ## 📬 Get in Touch
 
-- **Email:** [your.email@here.com](mailto:your.email@here.com)
+- **Email:** [your.email@here.com](mailto:christopherwsheridan@gmailcom)
 - **GitHub:** [@XenoCoreGiger31](https://github.com/XenoCoreGiger31)
 - **Hugging Face:** [@automajicly](https://huggingface.co/automajicly)
 - **GitHub Sponsors:** [Support the work](https://github.com/sponsors/XenoCoreGiger31)
