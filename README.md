@@ -153,22 +153,26 @@ I'm actively looking for collaborators on:
 
 ## 🎯 Current Focus (2026)
 
-- ✅ Autonomous agent infrastructure (V1 complete)
-- 🔄 Traceability system (requirements → decisions → implementation)
-- 🚧 Swarm agent architecture (multi-agent coordination)
-- 📱 Expanded mobile model suite
-- 🔐 Advanced social engineering toolkit
+- 🐍 **Mastering Python fundamentals** — deep dive into systems-level Python, performance optimization
+- 💾 **Systems & Architecture** — understanding OS internals, networking, memory management
+- 🔐 **Security Research** — rigorous vulnerability analysis, exploit development, threat modeling
+- 🛠️ **Building Foundational Tools** — creating reusable security tools from first principles
+- 📖 **Documentation & Teaching** — sharing knowledge, building transparent learning resources
 
 -----
 
 ## 📚 Learning & Growth
 
-I'm self-taught and constantly building in public. If you see something interesting (or broken), let me know. I believe in:
+I'm self-taught and learn by building real tools to solve real problems. My approach:
 
-- **Learning by building** — real tools, real problems
-- **Public development** — all work on GitHub, all reasoning documented
-- **Security research** — rigorous testing, transparent findings
-- **Open collaboration** — no gatekeeping, knowledge shared
+- **Deep learning in public** — all work on GitHub with documented reasoning
+- **Python & systems mastery** — from fundamentals to production-grade code
+- **Security-first development** — rigorous testing, transparent security findings, responsible disclosure
+- **Building tools, not hacks** — creating reliable, reusable security infrastructure
+- **Knowledge sharing** — no gatekeeping, collaborative open-source development
+- **Continuous improvement** — iterating on ideas, embracing feedback, learning from mistakes
+
+If you see something interesting, broken, or worth exploring together, let me know. Always building. Always learning.
 
 -----
 
