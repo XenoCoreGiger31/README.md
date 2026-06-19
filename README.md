@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Chris
+# 👋 Hey, I'm Chris
 
 **Security Researcher | Self-Taught Developer | Local LLM & Autonomous Agent Builder**
 
@@ -6,9 +6,9 @@ Building **PenMaster Security** — an autonomous penetration testing agent powe
 
 -----
 
-## 🚀 What I’m Working On
+## 🚀 What I'm Working On
 
-I’m obsessed with:
+I'm obsessed with:
 
 - 🔐 **Autonomous Security Agents** — orchestrating pentest workflows with local LLMs (Qwen 2.5-14B via LM Studio)
 - 🧠 **Local AI Deployment** — optimizing models for on-device inference (no cloud, no API keys)
@@ -57,7 +57,7 @@ I’m obsessed with:
 
 **PenMaster Security — Autonomous Penetration Testing Agent**
 
-An autonomous agent for coordinated, intelligent penetration testing. Runs Qwen 2.5-14B locally via LM Studio, orchestrates 17 security tools via MCP server, maintains persistent memory, and generates auditable pentest reports.
+An autonomous agent for coordinated, intelligent penetration testing. Runs Qwen 2.5-14B locally via LM Studio, orchestrates 17 security tools via MCP server, maintains persistent memory, and generates[...]
 
 **Key Features:**
 
@@ -78,7 +78,7 @@ An autonomous agent for coordinated, intelligent penetration testing. Runs Qwen 
 
 Quantized Qwen 2.5-1.5B model optimized for Android devices. Enables on-device inference for security assessments without cloud dependency.
 
-**What’s Inside:**
+**What's Inside:**
 
 - Multiple quantization formats (Q8 GGUF, Q4 GGUF, SafeTensors)
 - Tested on Android 12+
@@ -95,7 +95,7 @@ Quantized Qwen 2.5-1.5B model optimized for Android devices. Enables on-device i
 
 Quantized Qwen 2.5-1.5B model for iOS devices. Run security assessments directly on iPhone/iPad without internet.
 
-**What’s Inside:**
+**What's Inside:**
 
 - Q8 GGUF, Q4 GGUF, SafeTensors formats
 - iOS 15+ compatible
@@ -128,9 +128,9 @@ Check out the profile for model cards, download links, and integration guides.
 
 -----
 
-## 💬 Let’s Collaborate
+## 💬 Let's Collaborate
 
-I’m actively looking for collaborators on:
+I'm actively looking for collaborators on:
 
 - **Autonomous agent improvements** (better tool selection, exploit chains)
 - **Model optimization** (quantization, inference speed)
@@ -144,7 +144,7 @@ I’m actively looking for collaborators on:
 
 ## 📬 Get in Touch
 
-- **Email:** [your.email@here.com](mailto:christopherwsheridan@gmailcom)
+- **Email:** [christopherwsheridan@gmail.com](mailto:christopherwsheridan@gmail.com)
 - **GitHub:** [@XenoCoreGiger31](https://github.com/XenoCoreGiger31)
 - **Hugging Face:** [@automajicly](https://huggingface.co/automajicly)
 - **GitHub Sponsors:** [Support the work](https://github.com/sponsors/XenoCoreGiger31)
@@ -163,7 +163,7 @@ I’m actively looking for collaborators on:
 
 ## 📚 Learning & Growth
 
-I’m self-taught and constantly building in public. If you see something interesting (or broken), let me know. I believe in:
+I'm self-taught and constantly building in public. If you see something interesting (or broken), let me know. I believe in:
 
 - **Learning by building** — real tools, real problems
 - **Public development** — all work on GitHub, all reasoning documented
